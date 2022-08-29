@@ -116,7 +116,7 @@ Project Software Engineering University of Antwerp
 
 - Professor [Serge Demeyer](https://github.com/sergedemeyer) and assistant Brent van Bladel
 
-- [vehicle and road tiles used in visualization]
+- [Vehicle art used in visualization](https://pixeljoint.com/pixelart/81033.htm)
 
 ## License
 
